@@ -181,3 +181,5 @@ document.querySelector(".js-list").innerHTML = listItemsMarkup;
 document
   .querySelector(".js-input")
   .addEventListener("keydown", _.debounce(onKeyPress, 500));
+
+const checker = 0;
