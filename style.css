@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+button {
+  padding: 10px;
+}
+
+li {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */

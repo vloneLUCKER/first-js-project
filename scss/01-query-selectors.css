@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+button {
+  padding: 10px;
+}
+
+li {
+  text-decoration: none;
+  margin: 5px;
+}
+
+.return {
+  display: inline-block;
+  margin: 15px 0;
+}/*# sourceMappingURL=01-query-selectors.css.map */
