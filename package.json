@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vloneLUCKER/first-js-project/issues"
   },
-  "homepage": "https://github.com/vloneLUCKER/first-js-project#readme"
+  "homepage": "https://github.com/vloneLUCKER/first-js-project#readme",
+  "dependencies": {
+    "joi": "^17.13.3"
+  }
 }
