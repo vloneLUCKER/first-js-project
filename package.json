@@ -4,7 +4,8 @@
   "description": "first steps in js",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel html/index.html",
+    "build": "parcel build html/index.html"
   },
   "author": "",
   "license": "ISC",
@@ -18,5 +19,11 @@
   "homepage": "https://github.com/vloneLUCKER/first-js-project#readme",
   "dependencies": {
     "joi": "^17.13.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "parcel": "^2.12.0"
   }
 }
